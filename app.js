@@ -6,7 +6,7 @@ const port = 3000;
 
 app.get('/', (req, res) => {
 
-    return res.send('Hello world');
+    return res.send('Hello world...\nDocker...');
 });
 
 app.listen(port, () => {
