@@ -1,6 +1,6 @@
 {
   "name": "wash-api",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "crud for wash",
   "main": "index.js",
   "scripts": {
