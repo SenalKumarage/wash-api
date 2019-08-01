@@ -6,7 +6,7 @@ const app = express();
 
 const port = process.env.PORT;
 
-app.get('/', (req, res) => {
+app.get('/', (req: any, res: any) => {
 
     return res.send('Hello world...\nDocker...');
 });
